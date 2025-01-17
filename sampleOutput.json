@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Iran seizes oil tanker St Nikolas near Oman",
+      "description": "State media said the St Nikolas was taken in retaliation for the seizure of the vessel by the US last year.",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-67948119",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/58BE/production/_132281722_iran-tanker-reuters.jpg",
+      "publishedAt": "2024-01-12T03:37:16.2347761Z",
+      "content": "Iran has seized a Marshall Islands-flagged oil tanker in the Gulf of Oman. \r\nArmed men wearing masks reportedly boarded the vessel St Nikolas, close to the Omani port of Sohar, and ordered it to sail… [+2232 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Huge ring of galaxies challenges thinking on cosmos",
+      "description": "Scientists discover a huge, ring-shaped structure in space which questions our ideas of the universe.",
+      "url": "https://www.bbc.co.uk/news/science-environment-67950749",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/148FA/production/_132281248_figure_2.jpg",
+      "publishedAt": "2024-01-12T03:37:15.2350237Z",
+      "content": "Scientists at the University of Central Lancashire have discovered a gigantic, ring-shaped structure in space.\r\nIt is 1.3bn light-years in diameter and appears to be roughly 15 times the size of the … [+3862 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ecuador city tries to return to normal after gang horror",
+      "description": "Life is returning to the streets of Guayaquil but the spectre of drug-gang violence remains.",
+      "url": "https://www.bbc.co.uk/news/world-latin-america-67950833",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DF32/production/_132283175_gettyimages-1913162315.jpg",
+      "publishedAt": "2024-01-12T03:37:14.3430873Z",
+      "content": "Gradually, and with trepidation, life in Guayaquil is beginning to return. \r\nFew residents have fully recovered from the shock - from the outright chaos and bloodshed - of this week, a moment which w… [+4241 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ukraine war: MPs reject bid to crack down on draft dodgers",
+      "description": "They say some of the punishments proposed in President Zelensky's bill are unconstitutional.",
+      "url": "https://www.bbc.co.uk/news/world-europe-67949900",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D230/production/_132280835_4428beb8cc16904bc800f743385b4aa43708cf7b.jpg",
+      "publishedAt": "2024-01-12T03:37:13.2027466Z",
+      "content": "Ukraine's parliament has refused to consider a conscription bill that proposes a crackdown on draft dodgers.\r\nMPs have criticised certain punishment measures included in the bill as unconstitutional.… [+3001 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Donald Trump turns his legal battles into campaign spectacle",
+      "description": "The former president believes his campaign gets a significant boost every time he is seen in court.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-67953895",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16DC6/production/_132283639_gettyimages-1918188009.jpg",
+      "publishedAt": "2024-01-12T03:22:12.3126336Z",
+      "content": "Media caption, Watch: The biggest takeaways from Trumps fraud trial in 82 seconds\r\nAppearing in court in New York at the end of the civil fraud case against the Trump Organization on Thursday, Donald… [+5947 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "ESPN apologises for Emmy entries won with fake names",
+      "description": "An investigation found some employees had used fake names in entries to circumvent eligibility rules.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-67953201",
+      "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png",
+      "publishedAt": "2024-01-12T02:52:12.7028772Z",
+      "content": "ESPN has returned more than 30 Emmy statuettes after the award hosts uncovered a ploy in which some network employees used fake names to circumvent eligibility rules.\r\nThe network has said the ploy w… [+2256 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Who are the Houthi rebels and why are they attacking Red Sea ships?",
+      "description": "The Houthi rebels in Yemen have vowed to attack all ships in the Red Sea bound for Israel.",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-67614911",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C595/production/_131918505_fd1435b1-9887-40ff-88eb-ccb575aa3515.jpg",
+      "publishedAt": "2024-01-12T01:22:12.9855963Z",
+      "content": "Drone and rocket attacks on cargo ships in the Red Sea have now prompted US and UK-led forces to stage air strikes on targets in the region. \r\nWestern forces took action after vessels were attacked b… [+3986 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Huge ancient city found in the Amazon",
+      "description": "The city was built 2,500 years ago but may have been abandoned after a volcanic eruption.",
+      "url": "https://www.bbc.co.uk/news/science-environment-67940671",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7538/production/_132280003_6_excavation_sangay_rostain.jpg",
+      "publishedAt": "2024-01-11T22:52:16.5630742Z",
+      "content": "A huge ancient city has been found in the Amazon, hidden for thousands of years by lush vegetation. \r\nThe discovery changes what we know about the history of people living in the Amazon.\r\nThe houses … [+4454 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "PM briefing cabinet as UK and US weigh action against Houthi rebels",
+      "description": "It comes after the US said it would counter attacks on shipping in the Red Sea launched by the Yemeni group.",
+      "url": "https://www.bbc.co.uk/news/live/world-us-canada-67952029",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+      "publishedAt": "2024-01-11T20:07:18.9406383Z",
+      "content": "Houthi forces have been attacking ships in the Red Sea since\r\nNovember, launching more than 100 drone and missile attacks on vessels passing\r\nthrough the vital shipping lane.\r\nThe Iranian-backed rebe… [+460 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "UN court to hear South Africa genocide case against Israel",
+      "description": "Israel rejects South Africa's accusation that its actions in Gaza are \"genocidal in character\".",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-67942983",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E003/production/_132274375_gettyimages-1924068100.jpg",
+      "publishedAt": "2024-01-11T07:22:16.5478965Z",
+      "content": "The UN's International Court of Justice will begin hearing a case brought by South Africa on Thursday in which it accuses Israel of committing genocide against Palestinians in Gaza. \r\nSouth Africa ar… [+2267 chars]"
+    }
+  ]
+}
